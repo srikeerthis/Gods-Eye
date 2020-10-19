@@ -1,2 +1,2 @@
 # Gods-Eye
-Facial Recognition system for attendance sytem.
+Facial Recognition system for attendance.
